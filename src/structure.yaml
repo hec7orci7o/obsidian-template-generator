@@ -1,0 +1,10 @@
+machine_name:
+    type: directory
+    assets:
+        type: directory
+    Pentest.md:
+        type: file
+        template: pentest.md
+    machine_name.md:
+        type: file
+        template: info.md

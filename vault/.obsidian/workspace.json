@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "1246c01d81997f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4de2de5ef689c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2e2b98759dff8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e49f1a2f8f02e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb4577eba563ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee960a2762d00133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f75ca4d2158bbe5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0f9a4ec30bf6488",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7341e7dd394d24f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "363428ba02593845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f592f70a944069a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a19b68fc80eb59c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2ca933aa54c8f69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41f387733d5feb1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5a2e2b98759dff8d",
+  "lastOpenFiles": [
+    "Machines/Topology/Topology.md",
+    "Machines/Topology/Pentest.md",
+    "Machines/Topology/assets",
+    "Machines/Topology",
+    "Machines/Topology/pentest.md",
+    "Dashboard.md",
+    "Machines/Meow/Meow.md",
+    "Machines/Meow/Pentest.md",
+    "Machines/Meow/Explotación.md",
+    "CheatSheets/File Inclusion.md",
+    "CheatSheets/Introduction.md",
+    "CheatSheets/Getting Started.md",
+    "CheatSheets/Intro To Network Traffic Analysis.md",
+    "CheatSheets/Javascript Deobfuscation.md",
+    "CheatSheets/Linux Fundamentals.md",
+    "CheatSheets/SQL Injection Fundamentals.md",
+    "CheatSheets/Windows Fundamentals.md",
+    "CheatSheets/Attacking Web Applications With FFUF.md",
+    "Machines/Meow/assets",
+    "Machines/Meow",
+    "Machines",
+    "asd.md",
+    "CheatSheets/cheatsheet-33.md",
+    "CheatSheets/Sin confirmar 164259.crdownload",
+    "CheatSheets/Sin confirmar 946667.crdownload",
+    "CheatSheets/Sin confirmar 817836.crdownload",
+    "CheatSheets/Sin confirmar 983526.crdownload",
+    "CheatSheets/Sin confirmar 332729.crdownload",
+    "CheatSheets/Web Requests.md",
+    "Linux Fundamentals.md",
+    "Introduction.md",
+    "cheatsheet-15.md",
+    "cheatsheet-18.md",
+    "cheatsheet-49.md"
+  ]
+}
