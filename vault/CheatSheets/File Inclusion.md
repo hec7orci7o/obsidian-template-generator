@@ -1,3 +1,10 @@
+---
+title: 
+difficulty:
+tier:
+type:
+---
+
 ## Local File Inclusion
 
 | **Command** | **Description** |

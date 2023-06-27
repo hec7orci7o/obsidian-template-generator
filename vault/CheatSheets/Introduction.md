@@ -1,3 +1,10 @@
+---
+title: 
+difficulty:
+tier:
+type:
+---
+
 | **Command** | **Description** |
 | --------------|-------------------|
 |`uname -a`|  Shows the current kernel and OS information |

@@ -93,8 +93,8 @@ type: bar
 labels: [PIECE OF CAKE,VERY EASY,EASY,NOT TOO EASY,MEDIUM,A BIT HARD,HARD,EXTREMELY HARD,INSANE,BRAINFUCK!]
 series:
     - title: User
-	  data: {{user}}
+	  data: {{bar_user}}
 	- title: Root
-	  data: {{root}}
+	  data: {{bar_root}}
 width: 70%
 ```

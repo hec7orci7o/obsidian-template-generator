@@ -1,3 +1,10 @@
+---
+title: 
+difficulty:
+tier:
+type:
+---
+
 | **Command** | **Description** |
 | --------------|-------------------|
 | `man <tool>` | Opens man pages for the specified tool. | 

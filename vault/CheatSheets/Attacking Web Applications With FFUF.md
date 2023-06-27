@@ -1,3 +1,10 @@
+---
+title: 
+difficulty:
+tier:
+type:
+---
+
 # Ffuf
 
 | **Command**   | **Description**   |

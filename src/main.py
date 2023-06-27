@@ -6,6 +6,12 @@ from dotenv import load_dotenv
 # Cargar las variables de entorno desde el archivo .env
 load_dotenv()
 
+API_TOKEN = os.environ.get('API_TOKEN')
+STRUCTURE_CONF = os.environ.get('STRUCTURE_CONF')
+FOLDER_TEMPLATE = os.environ.get('FOLDER_TEMPLATE')
+
+print(STRUCTURE_CONF)
+
 def get_machine(client):
     try:
         machine_data = client.do_request("GET", "/machine/profile/" + machine_name)
@@ -22,7 +28,7 @@ def get_machine(client):
 
 def generar_estructura(VAULT_PATH, machine_name):
     # Cargar la estructura desde un archivo YAML
-    with open(os.environ.get('STRUCTURE_CONF')) as archivo_yaml:
+    with open(STRUCTURE_CONF, 'r', encoding='utf-8') as archivo_yaml:
         datos_yaml = yaml.safe_load(archivo_yaml)
         archivo_yaml.close()
 
@@ -38,7 +44,7 @@ def generar_estructura_rec(json_data, ruta_padre='', machine_name=''):
 
         if tipo == 'file':
             # Leer contenido de la plantilla
-            with open(os.environ.get('FOLDER_TEMPLATE') + '/' + contenido['template'], 'r', encoding='utf-8') as template:
+            with open(FOLDER_TEMPLATE + '/' + contenido['template'], 'r', encoding='utf-8') as template:
                 template_content = template.read()                
                 template.close()
 
@@ -52,30 +58,51 @@ def generar_estructura_rec(json_data, ruta_padre='', machine_name=''):
             generar_estructura_rec(contenido, ruta_actual, machine_name)
 
 def fill_template_info(template, data):
-    template = template.replace('{{name}}', data['name'])
-    template = template.replace('{{avatar}}', data['avatar'])
-    template = template.replace('{{difficultyText}}', data['difficultyText'])
-    template = template.replace('{{os}}', data['os'])
-    template = template.replace('{{ip}}', data['ip'])
-    template = template.replace('{{maker}}', str(list(data['matrix']['maker'].values())))
-    template = template.replace('{{user}}',  str(list(data['matrix']['user'].values())))
-    
-    # Convertir la fecha original a objeto datetime
-    fecha_objeto = datetime.strptime(data['release'], "%Y-%m-%dT%H:%M:%S.%fZ")
-    # Formatear la fecha en el formato deseado
-    template = template.replace('{{release}}', fecha_objeto.strftime("%d de %B de %Y"))
+    try:    template = template.replace('{{name}}', data['name'])
+    except: template = template.replace('{{name}}', '')
 
-    users = [value["user"] for value in data['rating'].values()]
-    roots = [value["root"] for value in data['rating'].values()]
+    try:    template = template.replace('{{avatar}}', data['avatar'])
+    except: template = template.replace('{{avatar}}', '')
 
-    template = template.replace('{{user}}', str(users))
-    template = template.replace('{{root}}', str(roots))
+    try:    template = template.replace('{{difficultyText}}', data['difficultyText'])
+    except: template = template.replace('{{difficultyText}}', 'Desconocida')
+
+    try:    template = template.replace('{{os}}', data['os'])
+    except: template = template.replace('{{os}}', 'Desconocido')
+
+    try:    template = template.replace('{{ip}}', data['ip'])
+    except: template = template.replace('{{ip}}', 'Desconectado')
+
+    try:    template = template.replace('{{maker}}', str(list(data['matrix']['maker'].values())))
+    except: template = template.replace('{{maker}}', '[0,0,0,0,0]')
+
+    try:    template = template.replace('{{user}}',  str(list(data['matrix']['user'].values())))
+    except: template = template.replace('{{user}}', '[0,0,0,0,0]')
+
+    try:    
+        # Convertir la fecha original a objeto datetime
+        fecha_objeto = datetime.strptime(data['release'], "%Y-%m-%dT%H:%M:%S.%fZ")
+        # Formatear la fecha en el formato deseado
+        template = template.replace('{{release}}', fecha_objeto.strftime("%d de %B de %Y"))
+    except: template = template.replace('{{release}}', 'DD de MM de YYYY')
+
+    try:    
+        users = [value["user"] for value in data['rating'].values()]
+        template = template.replace('{{bar_user}}', str(users))
+    except: 
+        template = template.replace('{{bar_user}}', '[0,0,0,0,0,0,0,0,0,0]')
+
+    try:    
+        roots = [value["root"] for value in data['rating'].values()]
+        template = template.replace('{{bar_root}}', str(roots))
+    except: 
+        template = template.replace('{{bar_root}}', '[0,0,0,0,0,0,0,0,0,0]')
 
     return template
 
 def main(VAULT_PATH, machine_name):
     # Create an API connection
-    client = HTBClient(app_token=os.environ.get('API_TOKEN'))
+    client = HTBClient(app_token=API_TOKEN)
     
     # Get the machine data
     machine_data = get_machine(client)
