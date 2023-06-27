@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4de2de5ef689c8",
+        "id": "ba83322262ab6638",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2e2b98759dff8d",
+            "id": "36d08cc0e40f74e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +29,24 @@
     "type": "split",
     "children": [
       {
+        "id": "59ec8a70b79f45db",
+        "type": "tabs",
+        "dimension": 40.931372549019606,
+        "children": [
+          {
+            "id": "5a2e2b98759dff8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "ffb4577eba563ea3",
         "type": "tabs",
+        "dimension": 59.068627450980394,
         "children": [
           {
             "id": "ee960a2762d00133",
@@ -69,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "right": {
     "id": "7341e7dd394d24f6",
@@ -146,16 +162,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5a2e2b98759dff8d",
+  "active": "36d08cc0e40f74e7",
   "lastOpenFiles": [
     "Machines/Topology/Topology.md",
     "Machines/Topology/Pentest.md",
+    "Dashboard.md",
     "Machines/Topology/assets",
     "Machines/Topology",
-    "Machines/Topology/pentest.md",
-    "Dashboard.md",
     "Machines/Meow/Meow.md",
     "Machines/Meow/Pentest.md",
+    "Machines/Meow/assets",
+    "Machines/Meow",
+    "main.md",
+    "main.py",
+    "Machines/Topology/pentest.md",
     "Machines/Meow/Explotación.md",
     "CheatSheets/File Inclusion.md",
     "CheatSheets/Introduction.md",
@@ -166,8 +186,6 @@
     "CheatSheets/SQL Injection Fundamentals.md",
     "CheatSheets/Windows Fundamentals.md",
     "CheatSheets/Attacking Web Applications With FFUF.md",
-    "Machines/Meow/assets",
-    "Machines/Meow",
     "Machines",
     "asd.md",
     "CheatSheets/cheatsheet-33.md",
@@ -175,7 +193,6 @@
     "CheatSheets/Sin confirmar 946667.crdownload",
     "CheatSheets/Sin confirmar 817836.crdownload",
     "CheatSheets/Sin confirmar 983526.crdownload",
-    "CheatSheets/Sin confirmar 332729.crdownload",
     "CheatSheets/Web Requests.md",
     "Linux Fundamentals.md",
     "Introduction.md",

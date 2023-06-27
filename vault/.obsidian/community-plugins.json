@@ -1,4 +1,6 @@
 [
   "dataview",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-shellcommands",
+  "buttons"
 ]
