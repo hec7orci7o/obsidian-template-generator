@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: File Inclusion
+difficulty: medium
+tier: 0
+type: offensive
+class: cheatsheet
 ---
 
 ## Local File Inclusion

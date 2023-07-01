@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: Attacking Web Applications With FFUF
+difficulty: easy
+tier: 0
+type: offensive
+class: cheatsheet
 ---
 
 # Ffuf

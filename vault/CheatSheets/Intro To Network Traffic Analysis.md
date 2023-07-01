@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: Intro To Network Traffic Analysis
+difficulty: medium
+tier: 0
+type: general
+class: cheatsheet
 ---
 
 # Cheat Sheet

@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: Introduction
+difficulty: fundamental
+tier: 0
+type: general
+class: cheatsheet
 ---
 
 | **Command** | **Description** |

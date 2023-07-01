@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: Javascript Deobfuscation
+difficulty: easy
+tier: 0
+type: defensive
+class: cheatsheet
 ---
 
 # Commands

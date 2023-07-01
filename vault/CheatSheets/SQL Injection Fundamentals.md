@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: SQL Injection Fundamentals
+difficulty: medium
+tier: 0
+type: offensive
+class: cheatsheet
 ---
 
 ## MySQL

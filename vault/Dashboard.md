@@ -1,3 +1,7 @@
+---
+name: Dashboard
+class: index
+---
 
 ```button
 name Crear una nueva

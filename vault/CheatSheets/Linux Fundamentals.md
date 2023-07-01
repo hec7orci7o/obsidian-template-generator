@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: Linux Fundamentals
+difficulty: defensive
+tier: easy
+type: defensive
+class: cheatsheet
 ---
 
 | **Command** | **Description** |

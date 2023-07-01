@@ -1,8 +1,9 @@
 ---
-title: 
-difficulty:
-tier:
-type:
+title: Web Requests
+difficulty: fundamental
+tier: 0
+type: general
+class: cheatsheet
 ---
 
 ## cURL

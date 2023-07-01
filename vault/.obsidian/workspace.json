@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7279073f209778d4",
+        "id": "4697f30518744429",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb440353dd0609f",
+            "id": "37069236d82a644e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,10 +27,10 @@
       {
         "id": "59ec8a70b79f45db",
         "type": "tabs",
-        "dimension": 40.931372549019606,
+        "dimension": 42.03431372549019,
         "children": [
           {
-            "id": "5a2e2b98759dff8d",
+            "id": "0e405f6ca366ae23",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -42,7 +42,7 @@
       {
         "id": "ffb4577eba563ea3",
         "type": "tabs",
-        "dimension": 59.068627450980394,
+        "dimension": 57.96568627450981,
         "children": [
           {
             "id": "ee960a2762d00133",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 269.5
   },
   "right": {
     "id": "7341e7dd394d24f6",
@@ -154,22 +154,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bdb440353dd0609f",
+  "active": "37069236d82a644e",
   "lastOpenFiles": [
     "Dashboard.md",
+    "Machines/Topology/Topology.md",
+    "Machines/Topology/Pentest.md",
+    "CheatSheets/Intro To Network Traffic Analysis.md",
+    "CheatSheets/Getting Started.md",
+    "CheatSheets/Javascript Deobfuscation.md",
+    "CheatSheets/Introduction.md",
+    "Machines/Topology/assets",
+    "Machines/Topology",
+    "CheatSheets/Attacking Web Applications With FFUF.md",
     "CheatSheets/Windows Fundamentals.md",
     "CheatSheets/Web Requests.md",
     "CheatSheets/SQL Injection Fundamentals.md",
     "CheatSheets/Linux Fundamentals.md",
-    "CheatSheets/Javascript Deobfuscation.md",
-    "CheatSheets/Introduction.md",
-    "CheatSheets/Intro To Network Traffic Analysis.md",
-    "CheatSheets/Attacking Web Applications With FFUF.md",
     "CheatSheets/File Inclusion.md",
-    "Machines/Topology/Topology.md",
-    "Machines/Topology/Pentest.md",
-    "Machines/Topology/assets",
-    "Machines/Topology",
     "Machines/Meow/Meow.md",
     "Machines/Meow/Pentest.md",
     "Machines/Meow/assets",
@@ -178,7 +179,6 @@
     "main.py",
     "Machines/Topology/pentest.md",
     "Machines/Meow/Explotación.md",
-    "CheatSheets/Getting Started.md",
     "Machines",
     "asd.md",
     "CheatSheets/cheatsheet-33.md",
