@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4697f30518744429",
+        "id": "e91a28475cd70280",
         "type": "tabs",
         "children": [
           {
-            "id": "37069236d82a644e",
+            "id": "785ea08bfd025523",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,17 +154,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "37069236d82a644e",
+  "active": "ee960a2762d00133",
   "lastOpenFiles": [
     "Dashboard.md",
     "Machines/Topology/Topology.md",
     "Machines/Topology/Pentest.md",
+    "Machines/Topology/assets",
+    "Machines/Topology",
+    "Machines",
     "CheatSheets/Intro To Network Traffic Analysis.md",
     "CheatSheets/Getting Started.md",
     "CheatSheets/Javascript Deobfuscation.md",
     "CheatSheets/Introduction.md",
-    "Machines/Topology/assets",
-    "Machines/Topology",
     "CheatSheets/Attacking Web Applications With FFUF.md",
     "CheatSheets/Windows Fundamentals.md",
     "CheatSheets/Web Requests.md",
@@ -179,7 +180,6 @@
     "main.py",
     "Machines/Topology/pentest.md",
     "Machines/Meow/Explotación.md",
-    "Machines",
     "asd.md",
     "CheatSheets/cheatsheet-33.md",
     "CheatSheets/Sin confirmar 164259.crdownload",

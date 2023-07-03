@@ -101,6 +101,9 @@ def fill_template_info(template, data):
     return template
 
 def main(VAULT_PATH, machine_name):
+    # Create the vault/Machines folder if it doesn't exist
+    if not os.path.exists(VAULT_PATH): os.makedirs(VAULT_PATH)
+
     # Create an API connection
     client = HTBClient(app_token=API_TOKEN)
     

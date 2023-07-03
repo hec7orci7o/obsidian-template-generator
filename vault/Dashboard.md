@@ -19,3 +19,12 @@ class "border-radius: 0.25rem; background-color: #4f46e5; padding: 0.5rem 0.75re
     outline-offset: 2px;
   }"
 ```
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Machine",
+difficulty AS "Difficulty",
+so AS "OS"
+FROM "Machines"
+WHERE type = "machine"
+```

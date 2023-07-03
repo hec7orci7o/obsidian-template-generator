@@ -1,3 +1,10 @@
+---
+title: {{name}}
+difficulty: {{difficultyText}}
+os: {{os}}
+release_date: {{release}}
+type: machine
+---
 
 <div
 	style="display: flex; align-items: center;"

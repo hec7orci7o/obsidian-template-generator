@@ -68,7 +68,7 @@
       "id": "r1swmw6esr",
       "title": "Machine Name Selector",
       "description": "",
-      "preview_shell_command": true,
+      "preview_shell_command": false,
       "fields": [
         {
           "label": "¿Cúal es el nombre de la máquina?",
