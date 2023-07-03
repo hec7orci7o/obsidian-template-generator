@@ -126,6 +126,9 @@ def fill_subject(template, data):
     return template
 
 def main(VAULT_PATH, subject_name):
+    # Create the vault/Asignaturas folder if it doesn't exist
+    if not os.path.exists(VAULT_PATH): os.makedirs(VAULT_PATH)
+
     # Get the machine data
     subject_data = get_subject(subject_name)
 

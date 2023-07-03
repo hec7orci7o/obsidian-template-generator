@@ -11,8 +11,12 @@
             "id": "409a75d7e811163d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 261.5
   },
   "right": {
     "id": "4ccd359c3b7fcab9",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dashboard.md"
+              }
             }
           }
         ]
@@ -187,6 +195,15 @@
   },
   "active": "409a75d7e811163d",
   "lastOpenFiles": [
+    "Asignaturas/Introducción a los computadores/Teoría/assets",
+    "Asignaturas/Introducción a los computadores/Prácticas/assets",
+    "Asignaturas/Introducción a los computadores/Problemas/assets",
+    "Asignaturas/Introducción a los computadores/Teoría",
+    "Asignaturas/Introducción a los computadores/Prácticas",
+    "Asignaturas/Introducción a los computadores/Introducción a los computadores.md",
+    "Asignaturas/Introducción a los computadores/Problemas",
+    "Asignaturas/Introducción a los computadores",
+    "Asignaturas",
     "Agenda.md",
     "Ingeniería Informática.md",
     "Dashboard.md",
@@ -199,18 +216,9 @@
     "Labs/Panel de control.md",
     "Labs/Lab 1.04.md",
     "Labs/Lab 1.02.md",
-    "Asignaturas/Introducción a los computadores/Introducción a los computadores.md",
-    "Asignaturas/Introducción a los computadores/Teoría/assets",
-    "Asignaturas/Introducción a los computadores/Prácticas/assets",
-    "Asignaturas/Introducción a los computadores/Problemas/assets",
-    "Asignaturas/Introducción a los computadores/Teoría",
-    "Asignaturas/Introducción a los computadores/Prácticas",
-    "Asignaturas/Introducción a los computadores/Problemas",
-    "Asignaturas/Introducción a los computadores",
     "LabsLab 1.02.md",
     "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Teoría/assets",
     "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Prácticas/assets",
-    "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Problemas/assets",
     "Asignaturas/Ingeniería Web/Ingeniería Web.md",
     "Labs/C.md",
     "Labs/Lab 1.10202.md",
@@ -221,7 +229,6 @@
     "Asignaturas/30200/30200.md",
     "ingenieria web/ingenieria web.md",
     "Ingenieria Web.md",
-    "Asignaturas/Ingeniería Web/Prácticas/pepe.md",
-    "Asignaturas/Ingeniería Web/Teoría/hola.md"
+    "Asignaturas/Ingeniería Web/Prácticas/pepe.md"
   ]
 }
