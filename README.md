@@ -1,1 +1,1 @@
-# Texto de ejemplo
+# Obsidian template generator
