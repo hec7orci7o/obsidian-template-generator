@@ -1,0 +1,437 @@
+{
+    "nip": "aXXXXXX",
+    "email": "XXXXXX@unizar.es",
+    "titulación": "Ingeniería Informática",
+    "nombre": "John",
+    "apellidos": "Doe",
+    "ramas": {
+        "computación": [
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30229,
+                "Nombre": "Algoritmia básica",
+                "Carácter": "obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30230,
+                "Nombre": "Procesadores de lenguajes",
+                "Carácter": "obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30231,
+                "Nombre": "Aprendizaje automático",
+                "Carácter": "obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30232,
+                "Nombre": "Algoritmia para problemas difíciles",
+                "Carácter": "obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30233,
+                "Nombre": "Recuperación de información",
+                "Carácter": "obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30234,
+                "Nombre": "Informática gráfica",
+                "Carácter": "obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30260,
+                "Nombre": "Bioinformática",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30261,
+                "Nombre": "Robótica",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Plazas": "32",
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30262,
+                "Nombre": "Videojuegos",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30263,
+                "Nombre": "Visión por computador",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            }
+        ],
+        "ingeniería de computadores": [
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30235,
+                "Nombre": "Procesadores comerciales",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30236,
+                "Nombre": "Sistemas empotrados I",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30237,
+                "Nombre": "Multiprocesadores",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30238,
+                "Nombre": "Centros de datos",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30239,
+                "Nombre": "Diseño y administración de redes",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30240,
+                "Nombre": "Sistemas empotrados 2",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30241,
+                "Nombre": "Laboratorio de sistemas empotrados",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30242,
+                "Nombre": "Garantía y seguridad",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            }
+        ],
+        "ingeniería del software": [
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30243,
+                "Nombre": "Ingeniería de requisitos",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30244,
+                "Nombre": "Verificación y validación",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30245,
+                "Nombre": "Arquitectura software",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30246,
+                "Nombre": "Ingeniería web",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30248,
+                "Nombre": "Gestión de proyecto software",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30254,
+                "Nombre": "Sistemas legados",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30249,
+                "Nombre": "Laboratorio de ingeniería del software",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30256,
+                "Nombre": "Sistemas y tecnologías web",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30259,
+                "Nombre": "Metodologías ágiles y calidad",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            }
+        ],
+        "sistemas de información": [
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30250,
+                "Nombre": "Bases de datos 2",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30251,
+                "Nombre": "Sistemas de información 2",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30252,
+                "Nombre": "Tecnologías de la información en la empresa",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30253,
+                "Nombre": "Almacenes y minería de datos",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30254,
+                "Nombre": "Sistemas legados",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30255,
+                "Nombre": "Sistemas de ayuda a la toma de decisiones",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30256,
+                "Nombre": "Sistemas y tecnologías web",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30264,
+                "Nombre": "Comercio electrónico",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30266,
+                "Nombre": "Sistemas de información distribuidos",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            }
+        ],
+        "tecnologías de la información": [
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30250,
+                "Nombre": "Bases de datos 2",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30252,
+                "Nombre": "Tecnologías de la información en la empresa",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 3,
+                "Periodo": "primavera",
+                "Código": 30257,
+                "Nombre": "Administración de sistemas 2",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30239,
+                "Nombre": "Diseño y administración de redes",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30254,
+                "Nombre": "Sistemas legados",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30256,
+                "Nombre": "Sistemas y tecnologías web",
+                "Carácter": "Obligatoria",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "primavera",
+                "Código": 30258,
+                "Nombre": "Diseño centrado en el usuario. Diseño para la multimedia",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30238,
+                "Nombre": "Centros de datos",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            },
+            {
+                "Curso": 4,
+                "Periodo": "otoño",
+                "Código": 30246,
+                "Nombre": "Ingeniería web",
+                "Carácter": "Optativa",
+                "Créditos": 6,
+                "Idioma": "Castellano"
+            }
+        ]
+    },
+    "curso": {
+        "primero": [],
+        "segundo": [],
+        "tercero": [],
+        "cuarto": []
+    },
+    "carácter": {
+        "formación básica": [],
+        "obligatoria": [],
+        "optativa": [],
+        "tfg": []
+    }
+}

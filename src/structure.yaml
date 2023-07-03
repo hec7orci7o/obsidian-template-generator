@@ -1,0 +1,17 @@
+subject_name:
+    type: directory
+    Prácticas:
+        type: directory
+        assets:
+            type: directory
+    Problemas:
+        type: directory
+        assets:
+            type: directory
+    Teoría:
+        type: directory
+        assets:
+            type: directory
+    subject_name.md:
+        type: file
+        template: subject.md

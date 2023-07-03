@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "69f15a891c377899",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61a488bee553828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409a75d7e811163d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bde9e353faf7c8ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8a5d356a132909",
+        "type": "tabs",
+        "dimension": 37.254901960784316,
+        "children": [
+          {
+            "id": "b8d271136daa60f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "52c728ddcc4bf56d",
+        "type": "tabs",
+        "dimension": 62.745098039215684,
+        "children": [
+          {
+            "id": "01e5c07dd625bb28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3baf1b7ce3a04fcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c496f0088b2657e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "4ccd359c3b7fcab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "919cd3e83bfdcbd3",
+        "type": "tabs",
+        "dimension": 41.91176470588235,
+        "children": [
+          {
+            "id": "8bd84f6e7d0070ea",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "88b1d5675961bcdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69f9125ef1207b2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fa72f82193362a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1af316b6c8851982",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f91a4ff4a6e7890",
+        "type": "tabs",
+        "dimension": 58.08823529411765,
+        "children": [
+          {
+            "id": "941833680a6720c2",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1ab648de9d50219",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-week",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista de gráfico": false,
+      "switcher:Abrir quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "409a75d7e811163d",
+  "lastOpenFiles": [
+    "Agenda.md",
+    "Ingeniería Informática.md",
+    "Dashboard.md",
+    "Prueba.md",
+    "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Trabajo fin de Grado (Tecnologías de la Información).md",
+    "Asignaturas/Sistemas legados/Sistemas legados.md",
+    "Asignaturas/Gestión de proyecto software/Gestión de proyecto software.md",
+    "Asignaturas/Emprendimiento y liderazgo/Emprendimiento y liderazgo.md",
+    "Asignaturas/Diseño y administración de redes/Diseño y administración de redes.md",
+    "Labs/Panel de control.md",
+    "Labs/Lab 1.04.md",
+    "Labs/Lab 1.02.md",
+    "Asignaturas/Introducción a los computadores/Introducción a los computadores.md",
+    "Asignaturas/Introducción a los computadores/Teoría/assets",
+    "Asignaturas/Introducción a los computadores/Prácticas/assets",
+    "Asignaturas/Introducción a los computadores/Problemas/assets",
+    "Asignaturas/Introducción a los computadores/Teoría",
+    "Asignaturas/Introducción a los computadores/Prácticas",
+    "Asignaturas/Introducción a los computadores/Problemas",
+    "Asignaturas/Introducción a los computadores",
+    "LabsLab 1.02.md",
+    "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Teoría/assets",
+    "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Prácticas/assets",
+    "Asignaturas/Trabajo fin de Grado (Tecnologías de la Información)/Problemas/assets",
+    "Asignaturas/Ingeniería Web/Ingeniería Web.md",
+    "Labs/C.md",
+    "Labs/Lab 1.10202.md",
+    "Labs/Lab102.md",
+    "Labs/Lab .102.md",
+    "Labs/lab102.md",
+    "movistar.md",
+    "Asignaturas/30200/30200.md",
+    "ingenieria web/ingenieria web.md",
+    "Ingenieria Web.md",
+    "Asignaturas/Ingeniería Web/Prácticas/pepe.md",
+    "Asignaturas/Ingeniería Web/Teoría/hola.md"
+  ]
+}
