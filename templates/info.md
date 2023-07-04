@@ -91,6 +91,7 @@ series:
     - title: Usuario
       data: {{user}}
 width: 50%
+rMin: 0
 ```
 
 ## Valoración
