@@ -6,10 +6,5 @@ git clone -b unizar-zgz-informatica https://github.com/hec7orci7o/obsidian-templ
 
 ## Configura Google Calendar
 
-Mira el tutorial a continuación que lo explica paso a paso.
-
-[![Tutorial](https://stateful.com/images/blog/events-google-calendar.png)](https://www.youtube.com/watch?v=Kttg8y7jTw8&t=240s)
-
-Si no puedes ver el video haz click [aquí](https://www.youtube.com/watch?v=Kttg8y7jTw8&t=240s)
-
-Si lo prefieres, puedes ver las instrucciones en la [web](https://yukigasai.github.io/obsidian-google-calendar/#/Basics/Installation)
+- Tutorial explicado paso a paso por [SniferL4bs](https://www.youtube.com/@SniferL4bs): [TUTORIAL](https://www.youtube.com/watch?v=Kttg8y7jTw8&t=240s)
+- Instruciones oficiales del plugin: [WEB](https://yukigasai.github.io/obsidian-google-calendar/#/Basics/Installation)
