@@ -8,7 +8,7 @@ git clone -b unizar-zgz-informatica https://github.com/hec7orci7o/obsidian-templ
 
 Mira el tutorial a continuación que lo explica paso a paso.
 
-[![Tutorial](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=Kttg8y7jTw8&t=240s)
+[![Tutorial](https://uploads-ssl.webflow.com/611c806ecaa429917a3c1e24/64075eadb97164794a18339c_blog%252F6HEbFhFrwOjGlZ60A9ht%252FcontentImages%252FDOQL0EoR3sX1fM57PrDG-0.png)](https://www.youtube.com/watch?v=Kttg8y7jTw8&t=240s)
 
 Si no puedes ver el video haz click [aquí](https://www.youtube.com/watch?v=Kttg8y7jTw8&t=240s)
 
