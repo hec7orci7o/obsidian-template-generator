@@ -13,7 +13,7 @@
 --- 
 
 > **Note** 
-> Estos pasos a seguir son los mismos para cada una de las ramas / vaults que puedes encontrar en este repositorio. Lo que puede variar son las variables de entorno sitiadas en: `src/.env`
+> Estos pasos a seguir son los mismos para cada una de las ramas / vaults que puedes encontrar en este repositorio. Lo que puede variar son las variables de entorno situadas en: `src/.env`
 
 ### Paso 1
 
