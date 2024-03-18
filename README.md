@@ -45,6 +45,7 @@ source example/bin/activate
 ```
 
 En Windows:
+Si windows no te deja ejecutar el script prueba a habilitar la ejecución de scripts como se menciona en este [enlace](https://www.drupaladicto.com/snippet/como-habilitar-la-ejecucion-de-scripts-para-powershell)
 ```bash
 .\example\Scripts\activate
 ```
