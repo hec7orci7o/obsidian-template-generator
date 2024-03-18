@@ -32,18 +32,18 @@ Una vez clonado abre el fichero `.env.example` situado en la carpeta `src` y rel
 Crear el entorno virtual dentro de la carpeta src
 ```bash
 cd src
-virtualenv example-api
+virtualenv example
 ```
 Activa el entorno virtual
 
 En linux:
 ```bash
-source example-api/bin/activate
+source example/bin/activate
 ```
 
 En Windows:
 ```bash
-.\example-api\Scripts\activate
+.\example\Scripts\activate
 ```
 
 Instala las dependencias dentro del entorno
