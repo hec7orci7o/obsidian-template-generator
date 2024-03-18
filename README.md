@@ -29,6 +29,9 @@ Una vez clonado abre el fichero `.env.example` situado en la carpeta `src` y rel
 
 ### Paso 3
 
+> [!NOTE]
+> si no tienes instalado `virtualenv` puedes instalarlo con: `pip install virtualenv`
+
 Crear el entorno virtual dentro de la carpeta src
 ```bash
 cd src
