@@ -32,7 +32,7 @@ Una vez clonado abre el fichero `.env.example` situado en la carpeta `src` y rel
 Crear el entorno virtual dentro de la carpeta src
 ```bash
 cd src
-virtualenv university
+virtualenv example-api
 ```
 Activa el entorno virtual
 
