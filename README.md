@@ -29,4 +29,32 @@ Una vez clonado abre el fichero `.env.example` situado en la carpeta `src` y rel
 
 ### Paso 3
 
+Crear el entorno virtual dentro de la carpeta src
+```bash
+virtualenv university
+```
+Activa el entorno virtual
+
+En linux:
+```bash
+source example-api/bin/activate
+```
+
+En Windows:
+```bash
+.\example-api\Scripts\activate
+```
+
+Instala las dependencias dentro del entorno
+```bash
+pip install -r requirements.txt
+```
+
+### Paso 4
+
 Abre la carpeta vault con obsidian y salvo que se indique algo más en los `README.md` de cada vault / rama ya habrás acabado con la instalación.
+
+> [!NOTE] 
+> La gente de Windows debe acceder dentro de obsidian y modificar el comando de ejecición de los scripts al igual que en el [paso 3](#paso-3).
+
+El vault se creó utilizando Linux por lo que deberás cambiar el comando en caso de que uses Windows.
