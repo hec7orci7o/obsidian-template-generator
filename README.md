@@ -1,65 +1,15 @@
-# Obsidian template generator
+> [!IMPORTANT] Customize it to your career
+> Currently the templates are designed for computer science students of the [439 plan](https://estudios.unizar.es/estudio/asignaturas?anyo_academico=2023&estudio_id=20230148&centro_id=110&plan_id_nk=439&sort=curso), so if this is not your case you should follow the following steps.
 
-![Ejemplo de vault](assets/informatica-example.png)
+In the [[dashboard]] and [[subject]] templates, at the beginning you will find a config variable of constant type. This variable specifies which values to modify, identified by the text `CHANGE ME` next to the corresponding default value.
 
-## Instalación 🔧
+---
 
-### Pre-requisitos 📋
+> [!NOTE] Create the table of contents
+> Just use the shortcut `alt+n` and select the `dashboard` template.
 
-1. **Obsidian**: Se requiere tener Obsidian instalado en su sistema. Puede descargar Obsidian desde su [sitio web oficial](https://obsidian.md/download).
+> [!NOTE] Enroll in your first course
+> just use the shortcut `alt+n` and select the `report` template and it will prompt you for the necessary fields.
 
-2. **Python**: Se requiere tener Python instalado en su sistema. Puede descargar la última versión de Python desde el [sitio web oficial](https://www.python.org/downloads/) de Python.
-
---- 
-
-> **Note** 
-> Estos pasos a seguir son los mismos para cada una de las ramas / vaults que puedes encontrar en este repositorio. Lo que puede variar son las variables de entorno situadas en: `src/.env`
-
-### Paso 1
-
-Clona el repositorio en tu dispositivo.
-
-```bash
-git clone -b <desired_branch> https://github.com/hec7orci7o/obsidian-template-generator.git
-```
-
-### Paso 2
-
-Una vez clonado abre el fichero `.env.example` situado en la carpeta `src` y rellena las variables de entorno con sus correspondientes valores. Por último, renombra el fichero `.env.example` -> `.env`.
-
-### Paso 3
-
-> [!NOTE]
-> si no tienes instalado `virtualenv` puedes instalarlo con: `pip install virtualenv`
-
-Crear el entorno virtual dentro de la carpeta src
-```bash
-cd src
-virtualenv example
-```
-Activa el entorno virtual
-
-En linux:
-```bash
-source example/bin/activate
-```
-
-En Windows:
-Si windows no te deja ejecutar el script prueba a habilitar la ejecución de scripts como se menciona en este [enlace](https://www.drupaladicto.com/snippet/como-habilitar-la-ejecucion-de-scripts-para-powershell)
-```bash
-.\example\Scripts\activate
-```
-
-Instala las dependencias dentro del entorno
-```bash
-pip install -r requirements.txt
-```
-
-### Paso 4
-
-Abre la carpeta vault con obsidian y salvo que se indique algo más en los `README.md` de cada vault / rama ya habrás acabado con la instalación.
-
-> [!NOTE] 
-> La gente de Windows debe acceder dentro de obsidian y modificar el comando de ejecición de los scripts al igual que en el [paso 3](#paso-3).
-
-El vault se creó utilizando Linux por lo que deberás cambiar el comando en caso de que uses Windows.
+> [!NOTE] Add your fisrt report
+> just use the shortcut `alt+n` and select the `report` template and it will prompt you for the necessary fields.
