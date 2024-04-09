@@ -1,5 +1,3 @@
-# Obsidian templates
-
 ## Installation guide 🔧
 
 > [!IMPORTANT]  
