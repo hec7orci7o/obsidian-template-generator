@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "67de77e4645a2ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "18234c596092d000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "417dc18f2176ef44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe05581ab2f8fbcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "35131a43e49074d8",
+        "type": "tabs",
+        "dimension": 36.75925925925926,
+        "children": [
+          {
+            "id": "9c0f0719b0bc2967",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cf464693f903a8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#bandit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dba06a76f7b01289",
+        "type": "tabs",
+        "dimension": 63.24074074074074,
+        "children": [
+          {
+            "id": "8317093e7999ad8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "743bdf94a3792e48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "0b0393d52e1c7b72",
+    "type": "split",
+    "children": [
+      {
+        "id": "84982f5920278173",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b9db3cdf227f55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae2f80c87e6b8615",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5d5f3afabe9dbb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8684ef701b60d83c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "417dc18f2176ef44",
+  "lastOpenFiles": [
+    "00-templates/machine.md",
+    "00-templates/cheatsheet.md",
+    "00-templates/bandit.md",
+    "02-Machines/02-Machines.md",
+    "README.md",
+    "02-Machines/monitored/monitored.md",
+    "02-Machines/Perfection/Perfection.md",
+    "02-Machines/Perfection/assets",
+    "02-Machines/Perfection",
+    "02-Machines/monitored/assets",
+    "02-Machines/monitored",
+    "01-CheatSheets/01-CheatSheets.md",
+    "01-CheatSheets/ffuf.md",
+    "03-WarGames/03-WarGames.md",
+    "03-WarGames/bandit/Bandit 2.md",
+    "03-WarGames/bandit/Bandit 1.md",
+    "03-WarGames/bandit",
+    "03-WarGames/bandit/Bandit 0.md",
+    "03-WarGames/bandit/Bandit 55.md",
+    "03-WarGames/bandit/Bandit 55.md",
+    "CheatSheets/ffuf.md",
+    "Machines/monitored/monitored.md",
+    "CheatSheets",
+    "Machines/monitored",
+    "Machines",
+    "03-WarGames/bandit/Rules.md",
+    "03-WarGames/bandit/Bandit 33.md",
+    "03-WarGames/bandit/Bandit 32.md",
+    "03-WarGames/bandit/Bandit 31.md",
+    "03-WarGames/bandit/Bandit 30.md",
+    "03-WarGames/bandit/Bandit 29.md",
+    "03-WarGames/bandit/Bandit 28.md",
+    "03-WarGames/bandit/Bandit 27.md",
+    "03-WarGames/bandit/Bandit 26.md",
+    "03-WarGames",
+    "CheatSheets/ffuf",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
